@@ -1,14 +1,14 @@
 #ifndef _MONTADOR_
 #define _MONTADOR_
 
-#define LABEL_CODE 	100
-#define EQU_CODE 	101
+#define LABEL_CODE 	107
+#define EQU_CODE 	108
 
 /* Pseudo-instrucoes (op code 'interno') */
-#define VAR_CODE	102
-#define STATIC_CODE 	103
-#define STRING_CODE 	104
-#define ALLOC_CODE	105
+#define VAR_CODE	109
+#define STATIC_CODE 	110
+#define STRING_CODE 	111
+#define ALLOC_CODE	112
 
 /* Pseudo-instrucoes (strings) */
 #define EQU_STR		"EQU"
